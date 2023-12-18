@@ -1,0 +1,15 @@
+C:\Users\macbe\Desktop\C# VSC\FirstProjetTest\bin\Debug\net7.0\FirstProjetTest.exe
+C:\Users\macbe\Desktop\C# VSC\FirstProjetTest\bin\Debug\net7.0\FirstProjetTest.deps.json
+C:\Users\macbe\Desktop\C# VSC\FirstProjetTest\bin\Debug\net7.0\FirstProjetTest.runtimeconfig.json
+C:\Users\macbe\Desktop\C# VSC\FirstProjetTest\bin\Debug\net7.0\FirstProjetTest.dll
+C:\Users\macbe\Desktop\C# VSC\FirstProjetTest\bin\Debug\net7.0\FirstProjetTest.pdb
+C:\Users\macbe\Desktop\C# VSC\FirstProjetTest\obj\Debug\net7.0\FirstProjetTest.csproj.AssemblyReference.cache
+C:\Users\macbe\Desktop\C# VSC\FirstProjetTest\obj\Debug\net7.0\FirstProjetTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\macbe\Desktop\C# VSC\FirstProjetTest\obj\Debug\net7.0\FirstProjetTest.AssemblyInfoInputs.cache
+C:\Users\macbe\Desktop\C# VSC\FirstProjetTest\obj\Debug\net7.0\FirstProjetTest.AssemblyInfo.cs
+C:\Users\macbe\Desktop\C# VSC\FirstProjetTest\obj\Debug\net7.0\FirstProjetTest.csproj.CoreCompileInputs.cache
+C:\Users\macbe\Desktop\C# VSC\FirstProjetTest\obj\Debug\net7.0\FirstProjetTest.dll
+C:\Users\macbe\Desktop\C# VSC\FirstProjetTest\obj\Debug\net7.0\refint\FirstProjetTest.dll
+C:\Users\macbe\Desktop\C# VSC\FirstProjetTest\obj\Debug\net7.0\FirstProjetTest.pdb
+C:\Users\macbe\Desktop\C# VSC\FirstProjetTest\obj\Debug\net7.0\FirstProjetTest.genruntimeconfig.cache
+C:\Users\macbe\Desktop\C# VSC\FirstProjetTest\obj\Debug\net7.0\ref\FirstProjetTest.dll
